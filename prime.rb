@@ -1,7 +1,8 @@
 def prime?(number)
-  if number / 2 == 0
-    false
-  elsif number / 2 
+  first_number = (1...-1)
+  second_number = (1...-1)
 
+  if number == first_number * second_number
+    false
   end
 end
