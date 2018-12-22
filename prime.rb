@@ -1,6 +1,6 @@
 def prime?(number)
-  first_number = (1...100)
-  second_number = (1...100)
+  first_number
+  second_number
 
   if number == first_number * second_number
     false
